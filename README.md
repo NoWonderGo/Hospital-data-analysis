@@ -129,10 +129,11 @@ hospital-data-analysis/
 │   ├── 07_total_patients_per_city.sql
 │   ├── 08_average_stay_per_department.sql
 │   ├── 09_department_lowest_patients.sql
-│   └── 10_monthly_medical_expenses.sql
+│   ├──10_monthly_medical_expenses.sql
+│   └── hospital_analysis.sql
 │
 └── results/
-    └── (add query result screenshots or PDF here)
+    └── Results.pdf
 ```
 
 ---
@@ -202,7 +203,7 @@ departments from highest to lowest, and returns the top three.
 
 ## ⚠️ Important Data Interpretation Notes
 
-### Question 4 — Medical Expenses
+### Question 4 — Monthly Medical Expenses report
 
 The portfolio version calculates **total medical expenses per hospital** before
 selecting the hospital with the highest total.
@@ -256,7 +257,7 @@ Possible next steps for this project:
 
 ## 👤 Author
 
-**Your Name**
+** Neeraj Kumar **
 
 *Aspiring Data Analyst | SQL | PostgreSQL | Data Analysis*
 
