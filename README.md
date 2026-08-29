@@ -244,14 +244,14 @@ This project demonstrates the ability to:
 
 ## 🚀 Future Improvements
 
-Possible next steps for this project:
+My Possible next steps for the project:
 
-1. Add data-cleaning SQL scripts.
-2. Add a database schema / ER diagram.
-3. Add more advanced SQL using CTEs and window functions.
-4. Create a dashboard using Power BI or Tableau.
-5. Add screenshots of the final results.
-6. Add business insights based on the query results.
+1. Data-cleaning SQL scripts.
+2. A database schema / ER diagram.
+3. more advanced SQL using CTEs and window functions.
+4. To Create a dashboard using Power BI or Tableau.
+5. To add screenshots of the final results.
+6. business insights based on the query results.
 
 ---
 
