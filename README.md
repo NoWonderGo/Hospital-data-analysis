@@ -169,15 +169,6 @@ Open the `sql` folder and run the queries individually.
 
 Each file represents one assignment question.
 
-### Step 4 — Save the results
-
-Save your query
-results inside:
-
-```text
-results/
-```
-
 ---
 
 ## 📊 Analysis Approach
