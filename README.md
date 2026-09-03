@@ -171,7 +171,7 @@ Each file represents one assignment question.
 
 ### Step 4 — Save the results
 
-For a stronger portfolio project, add screenshots or a PDF of the query
+Save your query
 results inside:
 
 ```text
